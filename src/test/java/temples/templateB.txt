@@ -1,0 +1,13 @@
+
+Um texto .:{UmTexto} 
+	
+	?{Grupo1 .:{Grupo1} Grupo2 .:{Grupo2};}?
+	
+	?{
+	Aqui é um texto repetitivo
+	G1 = ::{Grupo1} G2 = ::{Grupo2}
+	}?
+	
+	
+}
+

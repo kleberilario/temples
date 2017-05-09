@@ -1,0 +1,18 @@
+
+public class .:{ClassName} {
+	
+	?{private .:{AttributeType} .:{AttributeName};}?
+	?{
+	public ::{AttributeType} get::{AttributeName}{
+		return this.::{AttributeName};
+	}
+	}?
+	?{	
+	public ::{ClassName} set::{AttributeName}(::{AttributeType} ::{AttributeName}){
+		this.::{AttributeName} = ::{AttributeName};
+	}
+	}?
+	
+	
+}
+
